@@ -18,7 +18,6 @@ This project implements the Quad Tree method for image segmentation. The algorit
 
 Make sure you have the following installed:
 
-- **Python 3.7+**
 - **OpenCV**: `pip install opencv-python`
 - **NumPy**: `pip install numpy`
 
