@@ -45,8 +45,6 @@ The program displays two results:
 1. **Quad Tree Visualization**: A color-coded visualization of the Quad Tree structure on the image.
      
 2. **Segmented Image**: The image segmented into regions based on pixel intensity similarity.
-   
-   <img width="605" alt="image" src="https://github.com/user-attachments/assets/4064d8e4-a34e-4bdd-bfbc-18b35c0f0ecd">
 
 ## **Code Explanation**
 ### **Quad Tree Structure**
