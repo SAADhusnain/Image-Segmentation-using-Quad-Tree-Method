@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quad-tree-image-segmentation.git
+   git clone https://github.com/SAADhusnain/quad-tree-image-segmentation.git
    cd quad-tree-image-segmentation
 2. Replace the image path in the script (path variable) with your desired image.
 
