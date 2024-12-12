@@ -105,7 +105,7 @@ class QuadTree:
 
 # Driver Code
 if __name__ == "__main__":
-    path = 'Your_Image.png'  # Paste image path here
+    path = 'people.png'  # Paste image path here
     image = cv2.imread(path)
     if image is None:
         print("Image not found.")
